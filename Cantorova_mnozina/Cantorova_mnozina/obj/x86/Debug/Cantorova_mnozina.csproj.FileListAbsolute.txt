@@ -1,0 +1,11 @@
+C:\Users\Lukasinho\Documents\Visual Studio 2010\Projects\Cantorova_mnozina\Cantorova_mnozina\bin\Debug\Cantorova_mnozina.exe
+C:\Users\Lukasinho\Documents\Visual Studio 2010\Projects\Cantorova_mnozina\Cantorova_mnozina\bin\Debug\Cantorova_mnozina.pdb
+C:\Users\Lukasinho\Documents\Visual Studio 2010\Projects\Cantorova_mnozina\Cantorova_mnozina\obj\x86\Debug\MainWindow.baml
+C:\Users\Lukasinho\Documents\Visual Studio 2010\Projects\Cantorova_mnozina\Cantorova_mnozina\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Lukasinho\Documents\Visual Studio 2010\Projects\Cantorova_mnozina\Cantorova_mnozina\obj\x86\Debug\App.g.cs
+C:\Users\Lukasinho\Documents\Visual Studio 2010\Projects\Cantorova_mnozina\Cantorova_mnozina\obj\x86\Debug\Cantorova_mnozina_MarkupCompile.cache
+C:\Users\Lukasinho\Documents\Visual Studio 2010\Projects\Cantorova_mnozina\Cantorova_mnozina\obj\x86\Debug\Cantorova_mnozina.g.resources
+C:\Users\Lukasinho\Documents\Visual Studio 2010\Projects\Cantorova_mnozina\Cantorova_mnozina\obj\x86\Debug\Cantorova_mnozina.Properties.Resources.resources
+C:\Users\Lukasinho\Documents\Visual Studio 2010\Projects\Cantorova_mnozina\Cantorova_mnozina\obj\x86\Debug\Cantorova_mnozina.csproj.GenerateResource.Cache
+C:\Users\Lukasinho\Documents\Visual Studio 2010\Projects\Cantorova_mnozina\Cantorova_mnozina\obj\x86\Debug\Cantorova_mnozina.exe
+C:\Users\Lukasinho\Documents\Visual Studio 2010\Projects\Cantorova_mnozina\Cantorova_mnozina\obj\x86\Debug\Cantorova_mnozina.pdb

@@ -1,0 +1,11 @@
+c:\users\lukasinho\documents\visual studio 2010\Projects\snehova_vlocka_kocha\snehova_vlocka_kocha\obj\x86\Debug\MainWindow.baml
+c:\users\lukasinho\documents\visual studio 2010\Projects\snehova_vlocka_kocha\snehova_vlocka_kocha\obj\x86\Debug\MainWindow.g.cs
+c:\users\lukasinho\documents\visual studio 2010\Projects\snehova_vlocka_kocha\snehova_vlocka_kocha\obj\x86\Debug\App.g.cs
+c:\users\lukasinho\documents\visual studio 2010\Projects\snehova_vlocka_kocha\snehova_vlocka_kocha\obj\x86\Debug\snehova_vlocka_kocha_MarkupCompile.cache
+c:\users\lukasinho\documents\visual studio 2010\Projects\snehova_vlocka_kocha\snehova_vlocka_kocha\obj\x86\Debug\snehova_vlocka_kocha.g.resources
+c:\users\lukasinho\documents\visual studio 2010\Projects\snehova_vlocka_kocha\snehova_vlocka_kocha\obj\x86\Debug\snehova_vlocka_kocha.Properties.Resources.resources
+c:\users\lukasinho\documents\visual studio 2010\Projects\snehova_vlocka_kocha\snehova_vlocka_kocha\obj\x86\Debug\snehova_vlocka_kocha.csproj.GenerateResource.Cache
+c:\users\lukasinho\documents\visual studio 2010\Projects\snehova_vlocka_kocha\snehova_vlocka_kocha\bin\Debug\snehova_vlocka_kocha.exe
+c:\users\lukasinho\documents\visual studio 2010\Projects\snehova_vlocka_kocha\snehova_vlocka_kocha\bin\Debug\snehova_vlocka_kocha.pdb
+c:\users\lukasinho\documents\visual studio 2010\Projects\snehova_vlocka_kocha\snehova_vlocka_kocha\obj\x86\Debug\snehova_vlocka_kocha.exe
+c:\users\lukasinho\documents\visual studio 2010\Projects\snehova_vlocka_kocha\snehova_vlocka_kocha\obj\x86\Debug\snehova_vlocka_kocha.pdb

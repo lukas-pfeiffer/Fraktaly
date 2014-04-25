@@ -1,0 +1,18 @@
+﻿<Window x:Class="Sierpinskeho_fraktal.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Sierpinského fraktály - Lukáš Pfeiffer" Height="660" Width="856" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <Button Content="Iterace - krajkoví" Height="60" HorizontalAlignment="Left" Margin="618,282,0,0" Name="btnKrajkovi" VerticalAlignment="Top" Width="204" Click="btnKrajkovi_Click" FontSize="20" />
+        <Canvas HorizontalAlignment="Left" Margin="12,12,0,9" Name="platno" Width="600"></Canvas>
+        <Button Content="Konec" Height="40" HorizontalAlignment="Left" Margin="618,574,0,0" Name="btnKonec" VerticalAlignment="Top" Width="204" FontSize="20" Click="btnKonec_Click" />
+        <Label Height="48" HorizontalAlignment="Left" Margin="619,42,0,0" Name="lIterace" VerticalAlignment="Top" Width="205" FontSize="20" Content="Počet iterací:" />
+        <CheckBox Content="Vyplnit čtverec" Height="48" HorizontalAlignment="Left" Margin="618,368,0,0" Name="cbxVyplnit" VerticalAlignment="Top" Width="205" IsChecked="True" IsThreeState="False" FontSize="20" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+        <Button Content="Vymazat" FontSize="20" Height="50" Name="btnVymazat" Width="204" Margin="618,508,0,0" Click="btnVymazat_Click" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <Button Content="Iterace - koberec" FontSize="20" Height="60" HorizontalAlignment="Left" Margin="618,422,0,0" Name="btnKoberec" VerticalAlignment="Top" Width="204" Click="btnKoberec_Click" />
+        <Label Content="Sierpinský fraktál" FontSize="20" Height="48" HorizontalAlignment="Left" Margin="619,12,0,0" Name="lFraktal" VerticalAlignment="Top" Width="205" />
+        <RadioButton Content="Pravouhlí pravý" FontSize="20" Height="26" HorizontalContentAlignment="Left" Name="rbPravouhliPravy" VerticalContentAlignment="Center" Margin="618,250,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Width="204" />
+        <RadioButton Content="Rovnoramenný" Name="rbRovnoramenny" FontSize="20" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" IsChecked="True" Margin="618,186,0,0" HorizontalAlignment="Left" Width="204" Height="26" VerticalAlignment="Top" />
+        <RadioButton Content="Pravoúhlí levý" FontSize="20" HorizontalContentAlignment="Left" Name="rbPravouhliLevy" VerticalContentAlignment="Center" Height="26" Margin="618,218,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Width="204" />
+    </Grid>
+</Window>

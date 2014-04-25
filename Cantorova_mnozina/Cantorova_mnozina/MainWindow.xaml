@@ -1,0 +1,12 @@
+﻿<Window x:Class="Cantorova_mnozina.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Cantorova množina - Lukáš Pfeiffer" Height="239" Width="746" Background="WhiteSmoke" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Button Content="Vykreslit" Margin="400,168,0,9" Name="btnVykreslit" Click="btnVykreslit_Click" HorizontalAlignment="Left" Width="150
+                " />
+        <Grid Margin="12,12,12,0" Name="mrizka" Height="150" VerticalAlignment="Top" />
+        <Button Content="Konec" Margin="662,168,12,9" Name="btnKonec" Click="btnKonec_Click" />
+        <Button Content="Vymazat" Margin="556,168,0,9" Name="btnVymazat" Click="btnVymazat_Click" HorizontalAlignment="Left" Width="100" />
+    </Grid>
+</Window>

@@ -1,0 +1,11 @@
+c:\users\lukasinho\documents\visual studio 2010\Projects\Sierpinskeho_fraktal\Sierpinskeho_fraktal\bin\Debug\Sierpinskeho_fraktal.exe
+c:\users\lukasinho\documents\visual studio 2010\Projects\Sierpinskeho_fraktal\Sierpinskeho_fraktal\bin\Debug\Sierpinskeho_fraktal.pdb
+c:\users\lukasinho\documents\visual studio 2010\Projects\Sierpinskeho_fraktal\Sierpinskeho_fraktal\obj\x86\Debug\MainWindow.baml
+c:\users\lukasinho\documents\visual studio 2010\Projects\Sierpinskeho_fraktal\Sierpinskeho_fraktal\obj\x86\Debug\MainWindow.g.cs
+c:\users\lukasinho\documents\visual studio 2010\Projects\Sierpinskeho_fraktal\Sierpinskeho_fraktal\obj\x86\Debug\App.g.cs
+c:\users\lukasinho\documents\visual studio 2010\Projects\Sierpinskeho_fraktal\Sierpinskeho_fraktal\obj\x86\Debug\Sierpinskeho_fraktal_MarkupCompile.cache
+c:\users\lukasinho\documents\visual studio 2010\Projects\Sierpinskeho_fraktal\Sierpinskeho_fraktal\obj\x86\Debug\Sierpinskeho_fraktal.g.resources
+c:\users\lukasinho\documents\visual studio 2010\Projects\Sierpinskeho_fraktal\Sierpinskeho_fraktal\obj\x86\Debug\Sierpinskeho_fraktal.Properties.Resources.resources
+c:\users\lukasinho\documents\visual studio 2010\Projects\Sierpinskeho_fraktal\Sierpinskeho_fraktal\obj\x86\Debug\Sierpinskeho_fraktal.csproj.GenerateResource.Cache
+c:\users\lukasinho\documents\visual studio 2010\Projects\Sierpinskeho_fraktal\Sierpinskeho_fraktal\obj\x86\Debug\Sierpinskeho_fraktal.exe
+c:\users\lukasinho\documents\visual studio 2010\Projects\Sierpinskeho_fraktal\Sierpinskeho_fraktal\obj\x86\Debug\Sierpinskeho_fraktal.pdb
